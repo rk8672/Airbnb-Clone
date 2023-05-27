@@ -361,6 +361,7 @@ const Home = ({ toggle, setToggle }) => {
           <div className="flex justify-end items-center relative">
             <div className="flex mr-4 items-center">
               <div className="inline-block py-2 px-3 hover:bg-gray-200 rounded-full" href="#">
+                
                 <div className="flex items-center relative cursor-pointer whitespace-nowrap">Become a host</div>
               </div>
               <div className="block relative">
