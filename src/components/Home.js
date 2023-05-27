@@ -356,6 +356,7 @@ const Home = ({ toggle, setToggle }) => {
         </div>
         {/* end search bar */}
         {/* login */}
+        <p>CREATED BY RADHA KRISHNA SINGH</p>
         <div className="flex-initial">
           <div className="flex justify-end items-center relative">
             <div className="flex mr-4 items-center">
